@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59bbeb9e-d562-474b-a247-6f686c14fc6a" name="Changes" comment="RAG Pipeline is working with FastAPI">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="59bbeb9e-d562-474b-a247-6f686c14fc6a" name="Changes" comment="RAG Pipeline is working with FastAPI" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -23,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "sAI-miyapuram"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/sAI-miyapuram/askyourdocs.git",
+    "accountId": "dc3e98ed-a146-43e9-ab23-88375a108ffe"
+  }
+}]]></component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 2
 }</component>
@@ -34,9 +44,10 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
     "Python.ingest.executor": "Run",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master",
+    "git-widget-placeholder": "main",
     "last_opened_file_path": "C:/Users/saite/PycharmProjects/askyourdocs/scripts",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
@@ -101,7 +112,7 @@
       <workItem from="1754237928161" duration="2827000" />
       <workItem from="1754253859103" duration="841000" />
       <workItem from="1754254713800" duration="1425000" />
-      <workItem from="1754256174212" duration="5169000" />
+      <workItem from="1754256174212" duration="5506000" />
     </task>
     <task id="LOCAL-00001" summary="RAG Pipeline is working with FastAPI">
       <option name="closed" value="true" />
