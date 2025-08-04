@@ -4,29 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="59bbeb9e-d562-474b-a247-6f686c14fc6a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.env" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/askyourdocs.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/config.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/embedder.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/endpoints.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/evaluator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/extractor.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/llm_generator.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/main.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/rag_pipeline.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/routes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/evaluation_demo.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/test_pipeline.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/notebooks/test_with_ollama.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="59bbeb9e-d562-474b-a247-6f686c14fc6a" name="Changes" comment="RAG Pipeline is working with FastAPI">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -122,12 +101,36 @@
       <workItem from="1754237928161" duration="2827000" />
       <workItem from="1754253859103" duration="841000" />
       <workItem from="1754254713800" duration="1425000" />
-      <workItem from="1754256174212" duration="4114000" />
+      <workItem from="1754256174212" duration="4701000" />
     </task>
+    <task id="LOCAL-00001" summary="RAG Pipeline is working with FastAPI">
+      <option name="closed" value="true" />
+      <created>1754261579486</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1754261579486</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="RAG Pipeline is working with FastAPI" />
+    <option name="LAST_COMMIT_MESSAGE" value="RAG Pipeline is working with FastAPI" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
