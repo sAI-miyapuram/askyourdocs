@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="59bbeb9e-d562-474b-a247-6f686c14fc6a" name="Changes" comment="RAG Pipeline is working with FastAPI">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,7 @@
       <workItem from="1754237928161" duration="2827000" />
       <workItem from="1754253859103" duration="841000" />
       <workItem from="1754254713800" duration="1425000" />
-      <workItem from="1754256174212" duration="4701000" />
+      <workItem from="1754256174212" duration="5169000" />
     </task>
     <task id="LOCAL-00001" summary="RAG Pipeline is working with FastAPI">
       <option name="closed" value="true" />
