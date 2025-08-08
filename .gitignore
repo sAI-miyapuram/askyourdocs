@@ -11,8 +11,8 @@ __pycache__/
 .vscode/
 
 # Data & Indexes
-faiss_index/
-data/sample_docs/
+#faiss_index/
+#data/sample_docs/
 
 # Jupyter Notebooks
 .ipynb_checkpoints/
